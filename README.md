@@ -3,7 +3,9 @@
 
 &nbsp;
 
-- 🔭 I’m currently working in **ShapeAI**
+- 📚 I'm a CSE sophomore in **Maharaja Agrasen Institute of Technology**
+
+- 🔭 I’m currently working in **ShapeAI** as a Content Creator ( MERN Stack Developer )
 
 - 🌱 I’m currently learning **Dev Ops**
 
