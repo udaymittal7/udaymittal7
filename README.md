@@ -3,11 +3,9 @@
 
 &nbsp;
 
-- 📚 I'm a CSE sophomore in **Maharaja Agrasen Institute of Technology**
+- 📚 I'm a CSE pre-final student at **Maharaja Agrasen Institute of Technology**
 
-- 🔭 I’m currently working in **ShapeAI** as a Content Creator ( MERN Stack Developer )
-
-- 🌱 I’m currently learning **Dev Ops**
+- 🔭 I’m currently working at **Springworks** as an SDE Intern
 
 - 📫 How to reach me **mittaluday435@gmail.com**
 
