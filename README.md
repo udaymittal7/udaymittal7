@@ -3,11 +3,11 @@
 
 &nbsp;
 
-- 📚 I'm a CSE pre-final student at **Maharaja Agrasen Institute of Technology**
+- 📚 I'm a CSE pre-final student at <a href="https://mait.ac.in/" target="blank">**Maharaja Agrasen Institute of Technology**</a>
 
-- 🔭 I’m currently working at **Springworks** as an SDE Intern
+- 🔭 I’m currently working at <a href="https://www.springworks.in/" target="blank">**Springworks**</a> as an SDE Intern
 
-- 📫 How to reach me **mittaluday435@gmail.com**
+- 📫 How to reach me <a href="mailto:mittaluday435@gmail.com" target="blank">**mittaluday435@gmail.com**</a>
 
 &nbsp;
 
