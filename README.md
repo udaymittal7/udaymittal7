@@ -5,7 +5,7 @@
 
 - 📚 I'm a CSE final student at <a href="https://mait.ac.in/" target="blank">**Maharaja Agrasen Institute of Technology**</a>
 
-- 🔭 I’m currently working at <a href="https://www.springworks.in/" target="blank">**Springworks**</a> as an SDE-1
+- 🔭 I’m currently working at <a href="https://niro.money/" target="blank">**Niro**</a> as an SDE-1
 
 - 📫 How to reach me <a href="mailto:mittaluday435@gmail.com" target="blank">**mittaluday435@gmail.com**</a>
 
