@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uday</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 &nbsp;
 
-- 📚 I'm a CSE final student at <a href="https://mait.ac.in/" target="blank">**Maharaja Agrasen Institute of Technology**</a>
+- 📚 I'm a **Full Stack Developer** specialising in the MERN Stack, along with Next.js, Typescript and other related web technologies.
 
 - 🔭 I’m currently working at <a href="https://niro.money/" target="blank">**Niro**</a> as an SDE-1
 
