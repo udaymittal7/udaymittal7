@@ -5,7 +5,7 @@
 
 - 📚 I'm a **Full Stack Developer** specialising in the MERN Stack, along with Next.js, Typescript and other related web technologies.
 
-- 🔭 I’m currently working at <a href="https://niro.money/" target="blank">**Niro**</a> as an SDE-1
+- 🔭 I’m currently working at <a href="https://www.zetwerk.com/" target="blank">**Zetwerk**</a> as an SDE (Full-Stack)
 
 - 📫 How to reach me <a href="mailto:mittaluday435@gmail.com" target="blank">**mittaluday435@gmail.com**</a>
 
